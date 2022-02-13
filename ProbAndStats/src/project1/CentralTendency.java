@@ -1,5 +1,5 @@
 
-package notes;
+package project1;
 import java.util.Random;
 import java.util.Arrays;
 /**

@@ -1,4 +1,4 @@
-package notes;
+package project1;
 
 /**
  * TestBirthday is currently set up to display the chances of a shared

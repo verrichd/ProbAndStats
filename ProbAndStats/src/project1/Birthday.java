@@ -1,4 +1,4 @@
-package notes;
+package project1;
 import java.util.Random;
 /**
  * Birthday internally computes the chances of a shared birthday amongst a 

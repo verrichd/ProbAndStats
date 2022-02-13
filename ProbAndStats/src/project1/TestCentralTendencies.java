@@ -1,4 +1,4 @@
-package notes;
+package project1;
 /**
  * Tester class for CentralTencency where calculations for all
  * methods were entered into an Excel workbook for verification
