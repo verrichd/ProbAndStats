@@ -1,4 +1,7 @@
 package project1;
+
+import java.math.BigInteger;
+
 /**
  * Has methods to return the integer amount of possible permutations
  * in a group of given size or provided an array of generic objects. 
@@ -27,6 +30,16 @@ public class PermutationsAndCombinations<E> {
 			return 1;
 		}else {
 			return n*factorial(n-1);
+		}
+	}
+	
+	public BigInteger factorial(BigInteger n) {
+		if(n.equals(1)) {
+			return BigInteger.valueOf(1);
+		}else if(n.equals(0)) {
+			return BigInteger.valueOf(1);
+		}else {
+			return n.multiply(factorial(n.subtract(BigInteger.valueOf(1))));
 		}
 	}
 	
@@ -99,4 +112,7 @@ public class PermutationsAndCombinations<E> {
 		return factorial(someSetSize)/(factorial(sizeOfSubsets)*factorial(someSetSize - sizeOfSubsets));
 	}
 	
+	public BigInteger combinations(BigInteger setSize, BigInteger subSetSize) {
+		return factorial(setSize).divide(factorial(subSetSize).multiply(factorial(setSize.subtract(subSetSize))));
+	}
 }
