@@ -4,7 +4,7 @@ package project2;
  * Suppose that a random system of police patrol is devised so that a patrol officer
  * may visit a given beat location Y = 0, 1, 2, 3,... times per half hour period, with
  * each location being visited an average of once per time period. Assume that Y possesses, 
- * approximately, a Poissan probability distribution. Calculate the probability
+ * approximately, a Poisson probability distribution. Calculate the probability
  * that the patrol officer will miss a given location during a half hour period. What is
  * the probability that it will be visited once? Twice? At least once?
  * 
