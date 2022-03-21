@@ -16,8 +16,8 @@ public class HypergeometricSolver {
 		Integer sel = (Integer) selected;
 		Integer rr = (Integer) r;
 		pc = new PermutationsAndCombinations<>();
-		n = new BigInteger(tot.toString());
-		bigN = new BigInteger(sel.toString());
+		n = new BigInteger(sel.toString());
+		bigN = new BigInteger(tot.toString());
 		this.r = new BigInteger(rr.toString());
 		
 	}
