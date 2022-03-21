@@ -1,4 +1,4 @@
-package PokerHands;
+package project2.PokerHands;
 
 public class ProbabilitySimulation {
 	private int[] results;
