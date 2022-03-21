@@ -1,4 +1,4 @@
-package project2;
+package project2.Distributions;
 
 /**
  * This tester will be used to find the answers to textbook exercise 3.43 

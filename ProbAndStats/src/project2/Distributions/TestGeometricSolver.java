@@ -1,4 +1,4 @@
-package project2;
+package project2.Distributions;
 
 public class TestGeometricSolver {
 	public static void main( String[] args){

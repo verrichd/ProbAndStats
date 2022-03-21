@@ -1,4 +1,4 @@
-package project2;
+package project2.PlotPrograms;
 
 import java.util.Random;
 

@@ -1,4 +1,5 @@
-package project2;
+package project2.Distributions;
+
 /**
  * Example 3.19:
  * Suppose that a random system of police patrol is devised so that a patrol officer

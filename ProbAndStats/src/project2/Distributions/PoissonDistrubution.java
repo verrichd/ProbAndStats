@@ -1,4 +1,4 @@
-package project2;
+package project2.Distributions;
 
 import project1.PermutationsAndCombinations;
 

@@ -1,4 +1,4 @@
-package PokerHands;
+package project2.PokerHands;
 /**
 * @author DominicVerrichia
 *
