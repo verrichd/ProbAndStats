@@ -1,5 +1,5 @@
 package project2.Distributions;
-import project1.PermutationsAndCombinations;
+import project3.StatisticsLibrary.DiscreteDistributions.*;
 
 /**
  * Binomial Distribution calculates probability of a certain event occurring a 
