@@ -1,9 +1,7 @@
-package project3.StatisticsLibrary;
+package project3.StatisticsLibrary.DiscreteDistributions;
 
 import java.math.BigInteger;
 import java.security.InvalidParameterException;
-
-import project1.PermutationsAndCombinations;
 
 public class HypergeometricSolver {
 	private PermutationsAndCombinations pc;

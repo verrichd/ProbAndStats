@@ -1,4 +1,4 @@
-package project3.StatisticsLibrary;
+package project3.StatisticsLibrary.DiscreteDistributions;
 
 public class TestGeometricSolver {
 	public static void main( String[] args){

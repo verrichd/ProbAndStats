@@ -3,7 +3,7 @@ package project2.Distributions;
 import java.math.BigInteger;
 import java.security.InvalidParameterException;
 
-import project1.PermutationsAndCombinations;
+import project3.StatisticsLibrary.DiscreteDistributions.*;
 
 public class HypergeometricSolver {
 	private PermutationsAndCombinations pc;

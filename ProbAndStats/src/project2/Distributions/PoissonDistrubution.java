@@ -1,6 +1,6 @@
 package project2.Distributions;
 
-import project1.PermutationsAndCombinations;
+import project3.StatisticsLibrary.DiscreteDistributions.*;
 
 /**
  * Has method pmf to solve for probability of an event occurring exactly y times

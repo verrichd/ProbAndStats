@@ -1,4 +1,4 @@
-package project3.StatisticsLibrary;
+package project3.StatisticsLibrary.DiscreteDistributions;
 
 /**
  * This tester will be used to find the answers to textbook exercise 3.43 
